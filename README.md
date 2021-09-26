@@ -1,0 +1,2 @@
+# JavaBlog
+Pet project
